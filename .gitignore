@@ -1,0 +1,5 @@
+.vscode/
+output/
+*.exe
+users.txt
+stud.txt
